@@ -1,0 +1,10 @@
+void FillArray(int* arr, int size);
+void func(int *arr, int size, int *summ, int *mult);
+void PrintArray(int *arr, int size);
+void PrintMultiArr(int *arr, int y, int x);
+void srmas(int *arr, int y, int x);
+void chet(int *arr, int y, int x);
+int rec(int a, int b);
+//enum type_number { otricat, polojit, nul };
+//int numb(type_number tn, int* arr, int size);
+//void creat(int*arr, int r, int start, int end, type_number tn);
